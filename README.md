@@ -13,7 +13,7 @@ I'm  **Software Engineering student** from Granada, Spain, who is obsessed with 
 
 <code><img height="30" src="img/python.png"></code>
 <code><img height="30" src="img/cpp.png"></code>
+<code><img height="30" src="img/java.png"></code>
 <code><img height="30" src="img/mysql.png"></code>
 <code><img height="30" src="img/git.png"></code>
 <code><img height="30" src="img/terminal.png"></code>
-
