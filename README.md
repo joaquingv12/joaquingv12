@@ -18,3 +18,7 @@ I'm  **Software Engineering student** from Granada, Spain, who is obsessed with 
 <code><img height="30" src="img/mysql.png"></code>
 <code><img height="30" src="img/git.png"></code>
 <code><img height="30" src="img/terminal.png"></code>
+
+<a href="https://github.com/joaquingv12">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingv12&theme=radical&hide=glsl,python" />
+</a>
