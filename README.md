@@ -11,9 +11,9 @@ I'm  **Software Engineering student** from Granada, Spain, who is obsessed with 
   
 **Languages and Tools:**  
 
-<code><img height="20" src="img/python.png"></code>
-<code><img height="20" src="img/cpp.png"></code>
-<code><img height="20" src="img/mysql.png"></code>
-<code><img height="20" src="img/git.png"></code>
-<code><img height="20" src="img/terminal.png"></code>
+<code><img height="30" src="img/python.png"></code>
+<code><img height="30" src="img/cpp.png"></code>
+<code><img height="30" src="img/mysql.png"></code>
+<code><img height="30" src="img/git.png"></code>
+<code><img height="30" src="img/terminal.png"></code>
 
