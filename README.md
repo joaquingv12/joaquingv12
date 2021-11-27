@@ -2,7 +2,7 @@
 
 I'm  **Software Engineering student** from Granada, Spain, who is obsessed with the idea of improving himself and wants a platform to grow 🚀 and excel :1st_place_medal:.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="coding.gif" />
 
 - 👨🏽‍💻 I’m currently an student from University of Granada in my final year.
 - 🌱 I’m currently learning Python, Web development and many more things.
