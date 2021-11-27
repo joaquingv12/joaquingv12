@@ -1,4 +1,4 @@
-### <img src="img/Hi.gif" width="29px"> Hi there! I'm Joaquín&nbsp;
+# <img src="img/Hi.gif" width="29px"> Hi there! I'm Joaquín&nbsp;
 
 <img align="right" alt="GIF" width="300" src="img/coding1.jpeg" />
 
@@ -10,7 +10,7 @@ I'm  **Software Engineering student** from Granada, Spain, who is obsessed with 
 - 📫 How to reach me: Send me an email to [joaquingv12@gmail.com](mailto:joaquingv12@gmail.com).
 - 💬 Ask me about anything, I am happy to help.
   
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="img/python.png"></code>
 <code><img height="30" src="img/cpp.png"></code>
@@ -19,6 +19,8 @@ I'm  **Software Engineering student** from Granada, Spain, who is obsessed with 
 <code><img height="30" src="img/mysql.png"></code>
 <code><img height="30" src="img/git.png"></code>
 <code><img height="30" src="img/terminal.png"></code>
+
+## **Some stats:**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingv12&layout=compact&theme=radical)](https://github.com/joaquingv12/github-readme-stats)
 
