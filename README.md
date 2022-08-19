@@ -21,6 +21,6 @@ I'm  **software engineer** from Granada, Spain, who is obsessed with the idea of
 
 ## **Some stats:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingv12&layout=compact&theme=radical)](https://github.com/joaquingv12/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-orcin-59.vercel.app/api/top-langs/?username=joaquingv12&layout=compact&theme=radical)](https://github.com/joaquingv12/github-readme-stats)
 
 [![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquingv12&custom_title=My%20GitHub%20Stats&theme=radical&count_private=true&show_icons=true)](https://github.com/joaquingv12/github-readme-stats)
